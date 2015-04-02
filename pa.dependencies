@@ -7,13 +7,13 @@
     },
     {
         "remote":      "github",
-        "repository":  "AOSPA-legacy/android_device_oppo_msm8974-common",
+        "repository":  "AOSPA-L/android_device_oppo_msm8974-common",
         "target_path": "device/oppo/msm8974-common",
         "revision":    "lollipop-mr1"
     },
     {
         "remote":      "github",
-        "repository":  "AOSPA-legacy/android_device_oppo_common",
+        "repository":  "AOSPA-L/android_device_oppo_common",
         "target_path": "device/oppo/common",
         "revision":    "lollipop-mr1"
     },
